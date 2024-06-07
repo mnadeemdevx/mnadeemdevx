@@ -1,6 +1,4 @@
-## About me
-
-Hi, I'm Muhammad Nadeem. A MERN Stack Developer.
+## Hi, I'm Muhammad Nadeem.
 
 <!--
 **mnadeemdevx/mnadeemdevx** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
