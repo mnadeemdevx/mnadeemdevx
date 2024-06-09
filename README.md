@@ -1,4 +1,3 @@
-
 <!--horizontal divider(gradiant)-->
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
@@ -9,13 +8,11 @@
   </ul>
 </div>
 
-
 <!--- snake -->
 <div align="center">
   <img  src="https://github.com/1999AZZAR/1999AZZAR/blob/readme/resources/img/grid-snake.svg"
        alt="snake" /></a>
 </div>
-
 
 <!--h2 without bottom border-->
 <div id="user-content-toc">
@@ -23,7 +20,6 @@
     <summary><h2 style="display: inline-block">Confusion is part of Programming</h2></summary>
   </ul>
 </div>
-
 
 <!--Intro start-->
 - 🔭 **Developer & Community Manager**
@@ -36,7 +32,6 @@
 
 - 🏠 Don't hesitate to drop me a **👋** on Discord –  [mod.hunter](https://discordapp.com/users/947795908119109652) my username!
 <!--Intro end-->
-
  
 <!--h1 without bottom border-->
 <div id="user-content-toc">
@@ -45,14 +40,12 @@
   </ul>
 </div>
 
-
 <!--tech stack icons-->
 <p align="center">
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=html,css,bootstrap,tailwind,js,ts,react,redux,nextjs,vite,vercel,vue,materialui,nodejs,expressjs,mongodb,mysql,postgres,discord,py,github,bitbucket,postman,docker,vscode&perline=15" />
   </a>
 </p>
-
 
 <!-- Connect with me -->
 <!--h2 without bottom border-->
@@ -69,13 +62,6 @@
 <a href="https://www.instagram.com/mnadeemdevx/" target="blank"><img align="center" src="https://user-images.githubusercontent.com/88904952/234981169-2dd1e58f-4b7e-468c-8213-034ba62156c3.png" alt="instagram" height="50" width="50" /></a>
 <a href="https://discordapp.com/users/947795908119109652" target="blank"><img align="center" src="https://user-images.githubusercontent.com/88904952/234982627-019fd336-6248-453c-9b05-97c13fd1d207.png" alt="discord" height="50" width="50" /></a>
 </p>
-
-<!--profile visit count-->
-<div align="center">
-
-[![](https://visitcount.itsvg.in/api?id=mnadeemdevx&label=10500&color=0&pretty=true)](https://visitcount.itsvg.in)
-  
-</div>
 
 <!--horizontal divider(gradiant)-->
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
