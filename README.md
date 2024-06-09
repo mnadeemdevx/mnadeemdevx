@@ -26,7 +26,7 @@
 
 
 <!--Intro start-->
-- 🔭 I’m currently working as a **MERN Stack Developer**
+- 🔭 **Developer & Community Manager**
 
 - 🌱 I’m currently learning **to put together multiple Hyper Beast Stack for Scalable Applications**
 
@@ -34,19 +34,22 @@
 
 - 📫 Feel free to reach me out **muhammadnadeem.1596@gmail.com**
 
-- 🏠 Don't hesitate to drop me a **👋** on Discord –  [1010nishant](https://discordapp.com/users/957722095381540874) my username!
+- 🏠 Don't hesitate to drop me a **👋** on Discord –  [mod.hunter](https://discordapp.com/users/947795908119109652) my username!
 <!--Intro end-->
 
+ 
 <!--h1 without bottom border-->
 <div id="user-content-toc">
   <ul align="center">
     <summary><h2 style="display: inline-block">Technologies That I Know👨🏻‍💻</h2></summary>
   </ul>
 </div>
+
+
 <!--tech stack icons-->
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=html,css,js,ts,reactjs,nextjs,discord,telegram,slack,docker,postgres,prisma,dynamodb,figma,firebase,github,linux,materialui,mongodb,mysql,nodejs,expressjs,postman,py,redux,tailwind,vscode,kubernetes&perline=14" />
+    <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,discord,telegram,docker,postgres,prisma,dynamodb,figma,firebase,github,linux,materialui,mongodb,mysql,nodejs,expressjs,postman,py,redux,tailwind,vscode,kubernetes&perline=14" />
   </a>
 </p>
 
