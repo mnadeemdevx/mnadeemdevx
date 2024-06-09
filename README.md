@@ -73,7 +73,7 @@
 <!--profile visit count-->
 <div align="center">
 
-[![](https://visitcount.itsvg.in/api?id=mnadeemdevx&label=10500&cicon=3&color=6&pretty=true)](https://visitcount.itsvg.in)
+[![](https://visitcount.itsvg.in/api?id=mnadeemdevx&label=10500&color=0&pretty=true)](https://visitcount.itsvg.in)
   
 </div>
 
