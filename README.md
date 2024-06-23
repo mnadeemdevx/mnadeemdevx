@@ -15,7 +15,7 @@
 </div>
 
 <!--Intro start-->
-- 🔭 **Developer & Community Manager**
+- 🔭 **Full stack Developer**
 
 - 🌱 I’m currently learning **to put together multiple Hyper Beast Stack for Scalable Applications**
 
