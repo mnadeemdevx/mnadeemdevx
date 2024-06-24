@@ -19,7 +19,7 @@
 
 - 🌱 I’m currently learning **to put together multiple Hyper Beast Stack for Scalable Applications**
 
-- 💬 Ask me about **Javascript, Typescript, React.js, Next.js, Node.js, Express.js, MongoDB**
+- 💬 Ask me about **Javascript, Typescript, React.js, Next.js, Node.js, Express.js, MongoDB, MySQL, PostgreSQL**
 
 - 📫 Feel free to reach me out **muhammadnadeem.1596@gmail.com**
 
