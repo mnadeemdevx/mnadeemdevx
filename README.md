@@ -9,7 +9,7 @@
 </div>
 
 <!--Intro start-->
-- 🔭 **Frontend Engineer**
+- 🔭 **Software Engineer**
 
 - 🌱 I’m currently learning **to put together multiple Hyper Beast Stack for Scalable Applications**
 
