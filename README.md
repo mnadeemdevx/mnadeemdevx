@@ -13,7 +13,7 @@
 
 - 🌱 I’m currently learning **to put together multiple Hyper Beast Stack for Scalable Applications**
 
-- 💬 Ask me about **HTML, CSS, Tailwind CSS, Javascript, Typescript, React.js, Next.js, Node.js, Express.js, MongoDB, MySQL, PostgreSQL**
+- 💬 Ask me about **HTML, CSS, Tailwind CSS, Javascript, Typescript, React.js, Next.js, Node.js, Express.js, MongoDB, MySQL, PostgreSQL, Python**
 
 - 📫 Feel free to reach me out **muhammadnadeem.1596@gmail.com**
 
